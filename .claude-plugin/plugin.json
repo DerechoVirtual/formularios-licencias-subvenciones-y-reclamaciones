@@ -1,0 +1,25 @@
+{
+  "name": "formularios-licencias-subvenciones-y-reclamaciones",
+  "version": "1.1.0",
+  "description": "Licencias, subvenciones y reclamaciones ante la Administración: 46 formularios revisados el 25-11-2026, cada uno convertido en una skill que lo rellena paso a paso. Para tratar con la Administración fuera de lo tributario: licencias urbanísticas y de actividad, subvenciones (solicitud, subsanación y reintegro), reclamaciones ante la AEPD y la CNMV, sanciones de tráfico y procedimiento sancionador, nacionalidad por residencia, responsabilidad patrimonial, recursos administrativos y escritos de contencioso. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+  "author": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "displayName": "Licencias, subvenciones y reclamaciones ante la Administración · España",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://jurisprudenciator.lexiaipro.org/politica-de-privacidad",
+  "supportUrl": "https://jurisprudenciator.lexiaipro.org/incidencias",
+  "homepage": "https://jurisprudenciator.lexiaipro.org",
+  "termsOfServiceUrl": "https://jurisprudenciator.lexiaipro.org/terminos-y-condiciones",
+  "keywords": [
+    "jurisprudenciator",
+    "legal",
+    "españa",
+    "formularios",
+    "modelos",
+    "administrativo y tributario",
+    "administrativo-general"
+  ],
+  "repository": "https://github.com/DerechoVirtual/formularios-licencias-subvenciones-y-reclamaciones"
+}
